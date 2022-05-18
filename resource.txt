@@ -1,0 +1,2 @@
+https://github.com/je-suis-tm/quant-trading
+https://quantiacs.com/documentation/en/examples/q17_quick_start.html
